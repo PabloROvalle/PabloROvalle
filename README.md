@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PabloROvalle
 - 👀 I’m interested in Astronomy, more specifically planetary science
 - 🌱 I’m currently working on Jupiter's atmosphere with JWST
-- 💞️ I’m looking to collaborate on any project related to planetary physics and astronomical processing
+- 💞️ I’m looking to collaborate on any project related to planetary-extraplanetary physics and astronomical processing
 - 📫 How to reach me --> pablo.ovalle@obspm.fr
