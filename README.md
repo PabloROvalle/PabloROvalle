@@ -5,4 +5,4 @@
 - 📫 How to reach me --> pablo.ovalle@obspm.fr
 
 
-I can help in projects related to Radiative transfer (LTE) and inversion methods. Also about dynamics and cinematics in thick atmosphere planets.
+I can help in projects related to Radiative transfer (LTE) and inversion methods. Also about dynamics and cinematics in planets with thick atmospheres.
